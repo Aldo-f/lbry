@@ -14,6 +14,7 @@ at anytime.
 
 ### Fixed
   * Fixed amount of close nodes to add to list in case of extension to neighbouring k-buckets
+  * Fixed local node ID reporting in peer list
   *
 
 ### Deprecated
